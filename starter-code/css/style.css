@@ -1,1 +1,12 @@
 /* TODO: Make it awesome */
+header, footer {
+  background-color: skyblue;
+}
+
+main {
+  background-color:lightgray ;
+}
+
+img {
+  max-height: 200px;
+}
