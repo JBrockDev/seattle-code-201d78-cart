@@ -3,6 +3,7 @@
 ## Collaboration Between
 
 Jonathan Brock - https://github.com/jbrockdev
+
 George Mead - https://github.com/gmeadiv
 
 ## Pair Programming
