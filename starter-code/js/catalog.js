@@ -53,6 +53,8 @@ function addSelectedItemToCart() {
       i = Product.allProducts.length;
     }
   }
+  const form = document.getElementById("catalog");
+  form.reset();
   // console.log(cart);
   // DONE: get the quantity
   // DONE: using those, add one item to the Cart

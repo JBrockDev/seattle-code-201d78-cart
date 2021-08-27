@@ -33,7 +33,7 @@ function showCart() {
     tbodyElem.appendChild(rowElem);
     const deleteTDElem = document.createElement('td');
     rowElem.appendChild(deleteTDElem);
-    deleteTDElem.textContent = 'delete';
+    deleteTDElem.textContent = 'x';
     const quantityTDElem = document.createElement('td');
     rowElem.appendChild(quantityTDElem);
     quantityTDElem.textContent = cart.items[i].quantity;
